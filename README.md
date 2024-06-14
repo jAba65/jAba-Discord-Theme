@@ -1,6 +1,6 @@
 # jAba-Discord-Theme
 <image src="https://i.imgur.com/x5CKBqk.png" style="width: 90%"/>
-<image src="https://i.imgur.com/dZ9AiQz.png" style="width: 90%"/>
+<image src="https://i.imgur.com/dZ9AiQz.png" style="width: 30%"/>
 
 
 Установка:
